@@ -1,4 +1,3 @@
-layout_spectrum: 0.6001538480632007
 typography_spectrum: 0.8287364477291703
 color:
   brandStrength: 0.2634914868976921
@@ -11,5 +10,8 @@ color:
     - '#5E6D70'
     - '#424E4F'
     - '#1B1D1E'
+layout_spectrum: 0.6001538480632007
 name: reHOME Repair & Remodel
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f27a478-da20-4c92-ad06-68aed553a2ff.png
 title: Home Repair. Remodeling. Simplified
